@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayank
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning Python
 - 🌱 I’m currently working as an Analyst
 - 💞️ I’m looking to collaborate on knowledge sharing
 - 📫 How to reach me mayankshekhar@outlook.in
